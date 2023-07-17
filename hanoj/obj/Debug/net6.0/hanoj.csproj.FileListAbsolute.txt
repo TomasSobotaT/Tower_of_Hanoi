@@ -1,0 +1,15 @@
+C:\GitHubZaloha\hanoj\hanoj\bin\Debug\net6.0\hanoj.exe
+C:\GitHubZaloha\hanoj\hanoj\bin\Debug\net6.0\hanoj.deps.json
+C:\GitHubZaloha\hanoj\hanoj\bin\Debug\net6.0\hanoj.runtimeconfig.json
+C:\GitHubZaloha\hanoj\hanoj\bin\Debug\net6.0\hanoj.dll
+C:\GitHubZaloha\hanoj\hanoj\bin\Debug\net6.0\hanoj.pdb
+C:\GitHubZaloha\hanoj\hanoj\obj\Debug\net6.0\hanoj.csproj.AssemblyReference.cache
+C:\GitHubZaloha\hanoj\hanoj\obj\Debug\net6.0\hanoj.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHubZaloha\hanoj\hanoj\obj\Debug\net6.0\hanoj.AssemblyInfoInputs.cache
+C:\GitHubZaloha\hanoj\hanoj\obj\Debug\net6.0\hanoj.AssemblyInfo.cs
+C:\GitHubZaloha\hanoj\hanoj\obj\Debug\net6.0\hanoj.csproj.CoreCompileInputs.cache
+C:\GitHubZaloha\hanoj\hanoj\obj\Debug\net6.0\hanoj.dll
+C:\GitHubZaloha\hanoj\hanoj\obj\Debug\net6.0\refint\hanoj.dll
+C:\GitHubZaloha\hanoj\hanoj\obj\Debug\net6.0\hanoj.pdb
+C:\GitHubZaloha\hanoj\hanoj\obj\Debug\net6.0\hanoj.genruntimeconfig.cache
+C:\GitHubZaloha\hanoj\hanoj\obj\Debug\net6.0\ref\hanoj.dll
